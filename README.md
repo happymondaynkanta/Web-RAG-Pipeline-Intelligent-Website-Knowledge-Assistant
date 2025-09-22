@@ -61,7 +61,7 @@ This project highlights practical experience in **LangChain, ChromaDB, HuggingFa
 
 Developed by Happy Nkanta Monday — AI/ML Engineer specializing in Retrieval-Augmented Generation, Large Language Model, Deep Learning, and Applied Machine Learning.
 
-If you find this project useful, feel free to ⭐ star the repo and [Open PDF](https://github.com/Web-RAG-Pipeline-Intelligent-Website-Knowledge-Assistant/Technical_Report_with_code.pdf) [📑 View Technical Report (PDF)](Technical_Report_with_code.pdf)
+If you find this project useful, feel free to ⭐ star the repo and [📑 View Technical Report (PDF)](Technical_Report_with_code.pdf)
 
 
 ```
