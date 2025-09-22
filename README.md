@@ -61,7 +61,7 @@ This project highlights practical experience in **LangChain, ChromaDB, HuggingFa
 
 Developed by Happy Nkanta Monday — AI/ML Engineer specializing in Retrieval-Augmented Generation, Large Language Model, Deep Learning, and Applied Machine Learning.
 
-If you find this project useful, feel free to ⭐ star the repo or connect with me.
+If you find this project useful, feel free to ⭐ star the repo and ![Read the brief](Technical Report with code.pdf).
 ```
 
 
